@@ -1,3 +1,14 @@
+/* 
+    Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 23/02/2024
+
+    Questão 03B
+    Escreva um programa que leia do teclado um vetor de 10 posições. 
+    Escreva na tela quantos valores pares foram armazenados nesse vetor. 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
