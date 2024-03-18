@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* 
     Instituição: IFPE Campus Belo Jardim
     Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
@@ -8,6 +9,21 @@
     Escreva um programa que leia do teclado um vetor de 10 posições. 
     Escreva na tela quantos valores pares foram armazenados nesse vetor. 
 */
+=======
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 26/02/2024
+
+    Questão 09A
+    Faça um programa que calcule o desvio-padrão d de um vetor V contendo n números em que m é a média desse vetor. 
+    Considere n = 8. O vetor v deve ser lido do teclado.
+
+
+*/
+
+>>>>>>> f8c46441a75b56612f2ee4045f96ad23747e2274
 #include <stdio.h>
 #include <math.h>
 
