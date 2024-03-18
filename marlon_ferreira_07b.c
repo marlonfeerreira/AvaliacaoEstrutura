@@ -1,3 +1,15 @@
+
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 24/02/2024
+
+    Questão 07B
+    Faça um programa que leia um vetor de 10 posições. Verifique se existem valores iguais e os escreva na tela.
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

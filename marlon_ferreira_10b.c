@@ -1,3 +1,15 @@
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 26/02/2024
+
+    Questão 10B
+    Leia um vetor com 10 números de ponto flutuante. Em seguida, ordene os elementos desse vetor e imprima o vetor na tela.
+
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,15 @@
+
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 24/02/2024
+
+    Questão 05B
+    Faça um programa que preencha um vetor de tamanho 100 com os 100 primeiros números naturais que não são múltiplos de 7.
+     Ao final, imprima esse vetor na tela.
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

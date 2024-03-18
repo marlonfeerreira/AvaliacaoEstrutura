@@ -1,3 +1,15 @@
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 23/02/2024
+
+    Questão 03A
+    Faça um programa que preencha um vetor com 10 números reais. 
+    Em seguida, calcule e mostre na tela a quantidade de números negativos e a soma dos números positivos desse vetor.
+
+*/
+
 #include <stdio.h>
 
 #define TAMANHO 10

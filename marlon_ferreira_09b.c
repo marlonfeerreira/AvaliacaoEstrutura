@@ -1,3 +1,16 @@
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 26/02/2024
+
+    Questão 09B
+    Faça um programa que calcule o desvio-padrão d de um vetor V contendo n números em que m é a média desse vetor. 
+    Considere n = 8. O vetor v deve ser lido do teclado.
+
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

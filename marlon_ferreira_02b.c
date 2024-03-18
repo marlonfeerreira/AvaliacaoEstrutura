@@ -1,3 +1,14 @@
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 23/02/2024
+
+    Questão 02B
+    Faça um programa que receba do usuário um vetor X com 10 posições. 
+    Em seguida deverão ser impressos o maior e o menor elemento desse vetor. 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

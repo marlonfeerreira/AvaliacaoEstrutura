@@ -1,4 +1,16 @@
 #include <stdio.h>
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 24/02/2024
+
+    Questão 04A
+    Faça um programa que receba do usuário dois arrays, A e B, com 10 números inteiros cada. 
+    Crie um novo array C calculando C = A − B. Mostre na tela os dados do array C.
+
+
+*/
 
 #define TAMANHO 10
 

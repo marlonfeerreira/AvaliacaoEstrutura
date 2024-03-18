@@ -1,3 +1,16 @@
+/*
+ Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 24/02/2024
+
+    Questão 06B
+    Leia um conjunto de números reais, armazenando-o em vetor. Em seguida, calcule o quadrado de cada elemento desse vetor armazenando esse resultado em outro vetor.
+     Os conjuntos têm, no máximo, 20 elementos. 
+     Imprima os dois conjuntos de números.
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
