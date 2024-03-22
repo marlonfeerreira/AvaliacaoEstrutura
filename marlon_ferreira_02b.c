@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+
+/* 
+    Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Jobson Tenório do Nascimento
+    Data: 23/02/2024
+
+    Questão 02B
+    Escreva um programa que leia do teclado um vetor de 10 posições. 
+    Escreva na tela quantos valores pares foram armazenados nesse vetor. 
+*/
+=======
 /*
  Instituição: IFPE Campus Belo Jardim
     Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
@@ -9,6 +22,7 @@
     Em seguida deverão ser impressos o maior e o menor elemento desse vetor. 
 */
 
+>>>>>>> f8c46441a75b56612f2ee4045f96ad23747e2274
 #include <stdio.h>
 #include <stdlib.h>
 

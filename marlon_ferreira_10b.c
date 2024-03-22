@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+/* 
+    Instituição: IFPE Campus Belo Jardim
+    Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
+    Estudante: Marlon Ferreira da Silva
+    Data: 27/02/2024
+
+    Questão 010B
+    Escreva um programa que leia do teclado um vetor de 10 posições. 
+    Escreva na tela quantos valores pares foram armazenados nesse vetor. 
+=======
 /*
  Instituição: IFPE Campus Belo Jardim
     Componente Curricular: CCBJ.14 - Algoritmos e Estrutura de Dados
@@ -8,6 +19,7 @@
     Leia um vetor com 10 números de ponto flutuante. Em seguida, ordene os elementos desse vetor e imprima o vetor na tela.
 
 
+>>>>>>> f8c46441a75b56612f2ee4045f96ad23747e2274
 */
 
 #include <stdio.h>
